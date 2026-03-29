@@ -10,7 +10,9 @@ The current project I'm working on is a skincare log with slight social media el
 
 Here are some of my preferred technologies in my stack
 **Design and Planning**: Figma, Obsidian
+
 **Frontend**: SvelteKit, TypeScript, Flutter, Dart
+
 **Backend**: Rust, PostgreSQL (or any of its flavors), Kubernetes, Kafka
 
 ---
