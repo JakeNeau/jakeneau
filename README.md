@@ -12,6 +12,7 @@ Here are some of my preferred technologies in my stack
 - **Design and Planning**: Figma, Obsidian
 - **Frontend**: SvelteKit, TypeScript, Flutter, Dart
 - **Backend**: Rust, PostgreSQL (or any of its flavors), Kubernetes, Kafka
+- **Operating System**: NixOS, MacOS with Nix Darwin for compiling for Apple hardware
 
 ---
 
