@@ -1,16 +1,18 @@
-## Hi there 👋
+I'm Jake, a full-stack software and hardware engineer based in Minneapolis, Minnesota.
 
-<!--
-**JakeNeau/jakeneau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+As of late I have mostly been working on backend technologies, but I also work on the front end a bit for my day job. I also have some previous experience in CPU design and SystemVerilog.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The current project I'm working on is a skincare log with slight social media elements. This touches on a bit of everything from design and frontend, to backend and database.
+
+---
+
+Here are some of my preferred technologies in my stack
+**Design and Planning**: Figma, Obsidian
+**Frontend**: SvelteKit, TypeScript, Flutter, Dart
+**Backend**: Rust, PostgreSQL (or any of its flavors), Kubernetes, Kafka
+
+---
+
+If you need to reach me, the best place is jakeneau@proton.me
